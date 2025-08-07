@@ -15,7 +15,7 @@ I enjoy solving real-world problems with code, from predictive modeling of perfo
 
 ### 🌐 Web Development
 - **React**, **Node.js**
-- **HTML/CSS**, **JavaScript **
+- **HTML/CSS**, **JavaScript**
 - **REST APIs**
 - **GraphQL**
 
