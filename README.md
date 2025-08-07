@@ -35,7 +35,7 @@ I enjoy solving real-world problems with code, from predictive modeling of perfo
 ### 🚌 NSW Transport React App
 A frontend React application that displays real-time Sydney train departures using the GTFS API. Currently working on porting this to display on a LilyGO T5 e-ink display using the ESP32.
 
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elliot-Mason&repo=TransportTracker&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elliot-Mason&repo=TransportTracker&theme=github_dark)](https://github.com/Elliot-Mason/TransportTracker)
 
 ### 🧪 JMeter Predictive Model
 Used LSTM and XGBoost to predict long-duration test results using past JMeter runs. Wrote robust data pipelines to process hundreds of CSVs and forecast future test behavior.
